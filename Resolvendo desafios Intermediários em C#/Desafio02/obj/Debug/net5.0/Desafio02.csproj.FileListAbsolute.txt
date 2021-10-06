@@ -1,0 +1,16 @@
+C:\Users\Juan Farias\projetos\C#\DIO\Dio-everis-New-Talents-3\Resolvendo desafios Intermediários em C#\Desafio02\bin\Debug\net5.0\Desafio02.exe
+C:\Users\Juan Farias\projetos\C#\DIO\Dio-everis-New-Talents-3\Resolvendo desafios Intermediários em C#\Desafio02\bin\Debug\net5.0\Desafio02.deps.json
+C:\Users\Juan Farias\projetos\C#\DIO\Dio-everis-New-Talents-3\Resolvendo desafios Intermediários em C#\Desafio02\bin\Debug\net5.0\Desafio02.runtimeconfig.json
+C:\Users\Juan Farias\projetos\C#\DIO\Dio-everis-New-Talents-3\Resolvendo desafios Intermediários em C#\Desafio02\bin\Debug\net5.0\Desafio02.runtimeconfig.dev.json
+C:\Users\Juan Farias\projetos\C#\DIO\Dio-everis-New-Talents-3\Resolvendo desafios Intermediários em C#\Desafio02\bin\Debug\net5.0\Desafio02.dll
+C:\Users\Juan Farias\projetos\C#\DIO\Dio-everis-New-Talents-3\Resolvendo desafios Intermediários em C#\Desafio02\bin\Debug\net5.0\ref\Desafio02.dll
+C:\Users\Juan Farias\projetos\C#\DIO\Dio-everis-New-Talents-3\Resolvendo desafios Intermediários em C#\Desafio02\bin\Debug\net5.0\Desafio02.pdb
+C:\Users\Juan Farias\projetos\C#\DIO\Dio-everis-New-Talents-3\Resolvendo desafios Intermediários em C#\Desafio02\obj\Debug\net5.0\Desafio02.csproj.AssemblyReference.cache
+C:\Users\Juan Farias\projetos\C#\DIO\Dio-everis-New-Talents-3\Resolvendo desafios Intermediários em C#\Desafio02\obj\Debug\net5.0\Desafio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Farias\projetos\C#\DIO\Dio-everis-New-Talents-3\Resolvendo desafios Intermediários em C#\Desafio02\obj\Debug\net5.0\Desafio02.AssemblyInfoInputs.cache
+C:\Users\Juan Farias\projetos\C#\DIO\Dio-everis-New-Talents-3\Resolvendo desafios Intermediários em C#\Desafio02\obj\Debug\net5.0\Desafio02.AssemblyInfo.cs
+C:\Users\Juan Farias\projetos\C#\DIO\Dio-everis-New-Talents-3\Resolvendo desafios Intermediários em C#\Desafio02\obj\Debug\net5.0\Desafio02.csproj.CoreCompileInputs.cache
+C:\Users\Juan Farias\projetos\C#\DIO\Dio-everis-New-Talents-3\Resolvendo desafios Intermediários em C#\Desafio02\obj\Debug\net5.0\Desafio02.dll
+C:\Users\Juan Farias\projetos\C#\DIO\Dio-everis-New-Talents-3\Resolvendo desafios Intermediários em C#\Desafio02\obj\Debug\net5.0\ref\Desafio02.dll
+C:\Users\Juan Farias\projetos\C#\DIO\Dio-everis-New-Talents-3\Resolvendo desafios Intermediários em C#\Desafio02\obj\Debug\net5.0\Desafio02.pdb
+C:\Users\Juan Farias\projetos\C#\DIO\Dio-everis-New-Talents-3\Resolvendo desafios Intermediários em C#\Desafio02\obj\Debug\net5.0\Desafio02.genruntimeconfig.cache
